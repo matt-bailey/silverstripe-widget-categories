@@ -6,6 +6,8 @@
 
 Rename the downloaded folder to `widget_categories` (that bit is important), drop it into the root directory of your SilverStripe site and run a `/dev/build`. You will then see the widget in your list of available widgets.
 
+Alternatively if you use [Composer](http://getcomposer.org/) to manage your dependencies you can get the widget from [Packagist](https://packagist.org/packages/mattbailey/silverstripe-widget-categories) - `composer require mattbailey/silverstripe-widget-categories:*`.
+
 You will need the [SilverStripe Blog module](https://github.com/silverstripe/silverstripe-blog) and the [SilverStripe Blog Categories module](https://github.com/IOTI/silverstripe-blogcategories), plus a widget area in your template.
 
 ##Screenshots
