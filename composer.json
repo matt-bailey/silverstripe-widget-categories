@@ -1,5 +1,5 @@
 {
-    "name": "mattbailey/silverstripe-widget-categories",
+    "name": "mattbailey/widget_blogcategories",
     "description": "A SilverStripe widget that outputs a list of your blog categories.",
     "type": "silverstripe-module",
     "keywords": ["silverstripe", "widget", "blog", "categories"],
