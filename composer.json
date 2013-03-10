@@ -1,0 +1,18 @@
+{
+    "name": "mattbailey/silverstripe-widget-categories",
+    "description": "A SilverStripe widget that outputs a list of your blog categories.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "widget", "blog", "categories"],
+    "authors": [
+    {
+        "name": "Matt Bailey",
+        "email": "me@mattbailey.co"
+    }
+    ],
+    "require":
+    {
+        "silverstripe/framework": "3.*",
+        "silverstripe/blog": "*",
+        "ioti/silverstripe-blogcategories": "*"
+    }
+}
