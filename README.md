@@ -4,7 +4,7 @@
 
 ##Installation & Usage
 
-Rename the downloaded folder to `widget_categories` (that bit is important), drop it into the root directory of your SilverStripe site and run a `/dev/build`. You will then see the widget in your list of available widgets.
+Rename the downloaded folder to `widget_blogcategories` (that bit is important), drop it into the root directory of your SilverStripe site and run a `/dev/build`. You will then see the widget in your list of available widgets.
 
 You will need the [SilverStripe Blog module](https://github.com/silverstripe/silverstripe-blog) and the [SilverStripe Blog Categories module](https://github.com/IOTI/silverstripe-blogcategories), plus a widget area in your template.
 
