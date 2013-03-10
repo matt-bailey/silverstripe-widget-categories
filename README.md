@@ -1,4 +1,4 @@
-#Blog Categories List SilverStripe widget
+#Blog Categories List - SilverStripe widget
 
 **This [SilverStripe](http://www.silverstripe.org/) widget outputs a list of your blog categories.**
 
