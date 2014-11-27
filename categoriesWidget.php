@@ -48,7 +48,7 @@ class CategoriesWidget extends Widget
         foreach(BlogCategory::get() as $category) {
             $data = array(
                 'Title' => $category->Title,
-                'Link' => '/blog/category/' . $category->URLSegment,
+                'Link' => $category->Parent()->Link('category/'.$category->URLSegment),
                 'ShowCount' => $this->ShowCount,
                 'Count' => $this->totalEntries($category->ID)
             );
